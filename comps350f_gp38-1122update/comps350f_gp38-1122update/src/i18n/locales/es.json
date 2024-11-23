@@ -1,0 +1,43 @@
+{
+  "common": {
+    "vote": "Votar",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar Sesión",
+    "welcome": "Bienvenido",
+    "admin": "Administrador",
+    "help": "Ayuda",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Agregar"
+  },
+  "voting": {
+    "title": "Emite tu Voto",
+    "subtitle": "Selecciona tu candidato preferido",
+    "singleChoice": "Opción Única",
+    "multipleChoice": "Opción Múltiple",
+    "ranked": "Voto Preferencial",
+    "voteRecorded": "Tu voto ha sido registrado",
+    "votingEnded": "La votación ha terminado",
+    "maxSelections": "Selecciones máximas: {{max}}"
+  },
+  "candidates": {
+    "position": "Posición",
+    "description": "Descripción",
+    "votes": "Votos",
+    "addNew": "Agregar Nuevo Candidato",
+    "edit": "Editar Candidato",
+    "delete": "Eliminar Candidato"
+  },
+  "admin": {
+    "dashboard": "Panel de Administración",
+    "overview": "Resumen",
+    "reports": "Informes",
+    "settings": "Configuración",
+    "endVoting": "Finalizar Votación",
+    "restartVoting": "Reiniciar Votación",
+    "exportData": "Exportar Datos"
+  }
+}

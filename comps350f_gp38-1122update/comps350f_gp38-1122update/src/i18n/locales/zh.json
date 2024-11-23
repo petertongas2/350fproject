@@ -1,0 +1,43 @@
+{
+  "common": {
+    "vote": "投票",
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出",
+    "welcome": "欢迎",
+    "admin": "管理员",
+    "help": "帮助",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "add": "添加"
+  },
+  "voting": {
+    "title": "投票",
+    "subtitle": "请选择您支持的候选人",
+    "singleChoice": "单选",
+    "multipleChoice": "多选",
+    "ranked": "排序选择",
+    "voteRecorded": "您的投票已记录",
+    "votingEnded": "投票已结束",
+    "maxSelections": "最多选择：{{max}}个"
+  },
+  "candidates": {
+    "position": "职位",
+    "description": "描述",
+    "votes": "票数",
+    "addNew": "添加新候选人",
+    "edit": "编辑候选人",
+    "delete": "删除候选人"
+  },
+  "admin": {
+    "dashboard": "管理面板",
+    "overview": "概览",
+    "reports": "报告",
+    "settings": "设置",
+    "endVoting": "结束投票",
+    "restartVoting": "重新开始投票",
+    "exportData": "导出数据"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "common": {
+    "vote": "Vote",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "welcome": "Welcome",
+    "admin": "Admin",
+    "help": "Help",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add"
+  },
+  "voting": {
+    "title": "Cast Your Vote",
+    "subtitle": "Select your preferred candidate",
+    "singleChoice": "Single Choice",
+    "multipleChoice": "Multiple Choice",
+    "ranked": "Ranked Choice",
+    "voteRecorded": "Your vote has been recorded",
+    "votingEnded": "Voting has ended",
+    "maxSelections": "Maximum selections: {{max}}"
+  },
+  "candidates": {
+    "position": "Position",
+    "description": "Description",
+    "votes": "Votes",
+    "addNew": "Add New Candidate",
+    "edit": "Edit Candidate",
+    "delete": "Delete Candidate"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "overview": "Overview",
+    "reports": "Reports",
+    "settings": "Settings",
+    "endVoting": "End Voting",
+    "restartVoting": "Restart Voting",
+    "exportData": "Export Data"
+  }
+}
